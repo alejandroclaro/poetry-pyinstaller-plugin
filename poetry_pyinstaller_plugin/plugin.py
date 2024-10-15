@@ -22,6 +22,8 @@
 
 __author__ = "Thomas Mahé <contact@tmahe.dev>"
 
+from __future__ import annotations
+
 import enum
 import logging
 import os
